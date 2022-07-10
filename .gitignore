@@ -1,7 +1,7 @@
 # gatsby
 .cache/
-public
 src/gatsby-types.d.ts
+~partytown/
 
 # dependencies
 /node_modules

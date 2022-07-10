@@ -47,7 +47,7 @@
       "@hooks": [
         "./src/hooks/index.ts"
       ],
-      "@adapters": [
+      "@adapters/*": [
         "./src/adapters/*"
       ]
     },
